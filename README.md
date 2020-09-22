@@ -1,6 +1,6 @@
 # Magazine:  
 
-Bangladeshi community in Finland published their first magazine from .
+Bangladeshi community in Finland published their first magazine.
  
 ## I have painted and designed whole magazine.
 
