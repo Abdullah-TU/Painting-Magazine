@@ -6,7 +6,6 @@ Publisher: Bangladeshi community in Finland.
 ## Contribution: I have painted and designed whole magazine.
 
 Explore the magazine:
-
 https://issuu.com/arkomahmud/docs/karika_____________________________
 
 <p float="left">
