@@ -1,8 +1,9 @@
 # Magazine:  
-
-Bangladeshi community in Finland published their first magazine.
+Publication Name: Karika.
+Publication Type: Magazine.
+Publisher: Bangladeshi community in Finland.
  
-## I have painted and designed whole magazine.
+## Contribution: I have painted and designed whole magazine.
 
 Explore the magazine:
 
