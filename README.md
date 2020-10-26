@@ -25,12 +25,7 @@ Explore the magazine:
     </style> 
 </head> 
   
-<body> 
-    <h2 style = "text-align:center"> 
-        Text is centered: 
-    </h2> 
-      
-    <div class="center"> 
+<body>    
     
  <p >
 
