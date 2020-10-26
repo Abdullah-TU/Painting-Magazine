@@ -8,8 +8,36 @@ Publisher: Bangladeshi community in Finland.
 Explore the magazine:
 
 <h4>https://issuu.com/arkomahmud/docs/karika_____________________________</h4>
-<p float="center">
+
+
+<!DOCTYPE html> 
+<html> 
+  
+<head> 
+      
+    <!-- Style to set text-element 
+        to center -->
+    <style> 
+        .center { 
+            text-align-last: center; 
+            border: 2px solid black; 
+        } 
+    </style> 
+</head> 
+  
+<body> 
+    <h2 style = "text-align:center"> 
+        Text is centered: 
+    </h2> 
+      
+    <div class="center"> 
+    
+ <p >
 
 <img src="https://github.com/Abdullah-TU/My-Paintings/blob/master/magazine.PNG?raw=true" width="500" height="600">
 
-</p>
+</p> 
+    </div> 
+</body> 
+  
+</html> 
