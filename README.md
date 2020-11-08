@@ -1,5 +1,5 @@
 # Magazine:  
-Publication Name: Karika.
+* Publication Name: Karika.
 Publication Type: Magazine.
 Publisher: Bangladeshi community in Finland.
  
