@@ -3,7 +3,7 @@
 * Publication Type: Magazine.
 * Publisher: Bangladeshi community in Finland.
  
-## Contribution: I have painted and designed whole magazine.
+### Contribution: I have painted and designed whole magazine.
 
 Explore the magazine:
 
