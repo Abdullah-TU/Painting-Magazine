@@ -1,6 +1,7 @@
 
 # Magazine:  
 * Publication Name: Karika.
+* Publication Type: Magazine.
 
  
 ### Contribution: I have painted and designed whole magazine.
