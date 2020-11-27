@@ -1,6 +1,9 @@
 
 # Magazine:  
+* Publication Name: Karika.
 
+ 
+### Contribution: I have painted and designed whole magazine.
 
 Explore the magazine:
 
