@@ -1,12 +1,5 @@
 
-# Magazine:  
-* Publication Name: Karika.
-* Publication Type: Magazine.
-* Publisher: Bangladeshi community in Finland.
- 
-### Contribution: I have painted and designed whole magazine.
 
-Explore the magazine:
 
 <h4>https://issuu.com/arkomahmud/docs/karika_____________________________</h4>
 
