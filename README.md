@@ -1,4 +1,6 @@
 
+ 
+### Contribution: I have painted and designed whole magazine.
 
 
 Explore the magazine:
